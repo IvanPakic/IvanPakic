@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Ivan
+## About me:
+
+I am a final year Computer Engineering student interested in Computer Networks, Cyber Security, Neural Networks and Microservices.
+
+How to reach me:
+
+📫 ivannpakic@gmail.com
 
 <!--
 **IvanPakic/IvanPakic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
